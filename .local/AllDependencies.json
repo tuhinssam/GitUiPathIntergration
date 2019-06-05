@@ -444,10 +444,11 @@
   },
   "libraries": {
     "AvalonEdit/5.0.3": {
-      "sha512": "O7qf3H3SP2VrQujwmzvb3hJ+lw4rNWcZkpMH8T0qb/cA1UccoJIZ9qL/+DM7bws9l8Hxnyk7GUYVFrCSZeH+uA==",
+      "sha512": "L5CgXRniZRxI/tjoBztVgZnvTL1F/qKrRJa+Q88I0Gl78WRNaqdMkuOlkAsOHTauBGZSQNDO0/X+xIpzfzmLdQ==",
       "type": "package",
       "path": "avalonedit/5.0.3",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "avalonedit.5.0.3.nupkg.sha512",
         "avalonedit.nuspec",
@@ -515,10 +516,12 @@
       ]
     },
     "Extended.Wpf.Toolkit/2.8.0": {
-      "sha512": "YzLQ/sB91g0gRftvlPGOqYJe6TwiPTQoYhO+4ZSsnxaMEQZ5KZIQySTtsTWZ0HJC5+xrgk1Z/if7kjY4cSRPdw==",
+      "sha512": "wKjJl4sDyXTVzgiKTBTw8jT0/3OwpEklQuWGe1Nz2HX0joiBeUzIurY2mnERni+8XHwateRcuks6yk/cuR22fA==",
       "type": "package",
       "path": "extended.wpf.toolkit/2.8.0",
+      "hasTools": true,
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "extended.wpf.toolkit.2.8.0.nupkg.sha512",
         "extended.wpf.toolkit.nuspec",
@@ -544,10 +547,11 @@
       ]
     },
     "Humanizer.Core/2.4.2": {
-      "sha512": "A8amPZrfrFU+6BO+t/NLejofWah39XsRuovQqaHdYYtXANM+dexMrc+AbLmuH3qNV4hJv6FArBsBBtZcaODLZg==",
+      "sha512": "1ZKy7LHVYuhmM398hpvyWCcc2Fcx+hqiGYASELDthjWhVrsA6IabYnHRfkQFF6nGG6x4fA1D0StDX/U2Pj+FdQ==",
       "type": "package",
       "path": "humanizer.core/2.4.2",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "humanizer.core.2.4.2.nupkg.sha512",
         "humanizer.core.nuspec",
@@ -576,10 +580,11 @@
       ]
     },
     "Microsoft.Rest.ClientRuntime/2.3.10": {
-      "sha512": "a30J6t7LRkYx974tLaRnJc/dYZ1M7uhc5vdgULxdhL7HJNJydG7e+jyAVD15gK+vFR1i9MH+5Ch9t1zhb/Lp1g==",
+      "sha512": "JO9CzV1hvjtrIzq06gJ5nNv7GV24Xz3Y3O9vx7fCe7ndNA0NmD3fZ9JUgFir2UvJ2/+9vvCo/6RXjyfywvQQIw==",
       "type": "package",
       "path": "microsoft.rest.clientruntime/2.3.10",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net452/Microsoft.Rest.ClientRuntime.dll",
         "lib/net452/Microsoft.Rest.ClientRuntime.runtimeconfig.json",
@@ -603,10 +608,11 @@
       ]
     },
     "mixpanel-csharp/4.0.1": {
-      "sha512": "0brkYOBMAmoeQqy+Bkt5Shy+jCaMVsuYq7dHoxR7utUtM3OZ/WnZHMQyY41WuzYu0zoqxNvwLUFdlmQWyn6KeA==",
+      "sha512": "wnMk0ZS9XVi9Mc5JzCHGYscLtivHcD7XH5J1x1AulVlrxGfz2qHlyeS85TsDsJhgriFTAtkr7659XWDzg8P/+g==",
       "type": "package",
       "path": "mixpanel-csharp/4.0.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net35/Mixpanel.dll",
         "lib/net35/Mixpanel.xml",
@@ -649,10 +655,11 @@
       ]
     },
     "NPOI/2.4.1": {
-      "sha512": "k6KgsGWQpODQcIo7SwTw4j0be6qILTQlk7xKMEPQjp1Bz3+YaUZSvQ/ePG5vcLKnzGDgGGN1TccvYccmrZU53g==",
+      "sha512": "85790/CY9z4DCU1KLpcdLSqaqaqmQOenTqXJfcsYK8LIKNAAoTgjT5LYLbORgdwAd63sbaJiCfB1SIn/dAXrJw==",
       "type": "package",
       "path": "npoi/2.4.1",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE",
         "Read Me.txt",
@@ -682,10 +689,11 @@
       ]
     },
     "SharpZipLib/1.0.0": {
-      "sha512": "38egGevtPMQn/6olZZUteKUC7+BD47LdCGKo9Vyj17+HWDwiqPXsyJu55q9WSybhwVKwt0q2FLhiuJjZfQpsHw==",
+      "sha512": "YuYztmY3jEb21F6e5LIPHJjApdtzdCPQ284UzsCKNfkgW71bukFHJES6RbKi+wm053XzFg0LX5/2vj/9gl8F/g==",
       "type": "package",
       "path": "sharpziplib/1.0.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net45/ICSharpCode.SharpZipLib.dll",
         "lib/net45/ICSharpCode.SharpZipLib.xml",
@@ -983,9 +991,9 @@
     "restore": {
       "projectUniqueName": "ComputerVisionTest",
       "projectName": "ComputerVisionTest",
-      "projectPath": "C:\\Users\\tuhin.samanta\\Desktop\\UiPath Data\\ComputerVisionTest\\.local",
+      "projectPath": "C:\\Users\\tuhin.samanta\\Documents\\UiPath\\GitUiPathIntergration\\.local",
       "packagesPath": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuhin.samanta\\Desktop\\UiPath Data\\ComputerVisionTest\\.local"
+      "outputPath": "C:\\Users\\tuhin.samanta\\Documents\\UiPath\\GitUiPathIntergration\\.local"
     },
     "frameworks": {
       "net461": {
