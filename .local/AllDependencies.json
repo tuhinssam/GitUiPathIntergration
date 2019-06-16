@@ -991,9 +991,9 @@
     "restore": {
       "projectUniqueName": "ComputerVisionTest",
       "projectName": "ComputerVisionTest",
-      "projectPath": "C:\\Users\\tuhin.samanta\\Documents\\UiPath\\GitUiPathIntergration\\.local",
+      "projectPath": "C:\\Users\\tuhin.samanta\\Documents\\UiPath\\TestGitInt\\.local",
       "packagesPath": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuhin.samanta\\Documents\\UiPath\\GitUiPathIntergration\\.local"
+      "outputPath": "C:\\Users\\tuhin.samanta\\Documents\\UiPath\\TestGitInt\\.local"
     },
     "frameworks": {
       "net461": {
