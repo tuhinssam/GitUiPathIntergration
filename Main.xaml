@@ -1,4 +1,4 @@
-﻿<Activity mc:Ignorable="sap sap2010" x:Class="Main" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="744,2142.4" sap2010:WorkflowViewState.IdRef="Main_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:p="http://schemas.uipath.com/workflow/activities/cv" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing" xmlns:uc="clr-namespace:UiPath.CV;assembly=UiPath.CV" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+﻿<Activity mc:Ignorable="sap sap2010" x:Class="Main" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="744,2244.8" sap2010:WorkflowViewState.IdRef="Main_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:p="http://schemas.uipath.com/workflow/activities/cv" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing" xmlns:uc="clr-namespace:UiPath.CV;assembly=UiPath.CV" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
       <x:String>System.Activities</x:String>
@@ -48,7 +48,7 @@
       <AssemblyReference>UiPath.CV</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="This is a computer vision demonstration" sap:VirtualizedContainerService.HintSize="704,2022.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="This is a computer vision demonstration" sap:VirtualizedContainerService.HintSize="704,2124.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -58,6 +58,7 @@
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="681.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Start of Execution" />
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="681.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="Test msg1" />
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="681.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="Test msg6" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="681.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_4" Text="Test msg7" />
     <p:CVScope ContinueOnError="{x:Null}" DelayBefore="300" DisplayName="CV Screen Scope 'UIContainerClass'" sap:VirtualizedContainerService.HintSize="681.6,1562.4" sap2010:WorkflowViewState.IdRef="CVScope_1" Server="https://cv.uipath.com/">
       <p:CVScope.Body>
         <ActivityAction x:TypeArguments="x:Object">
