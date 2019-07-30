@@ -991,9 +991,9 @@
     "restore": {
       "projectUniqueName": "ComputerVisionTest",
       "projectName": "ComputerVisionTest",
-      "projectPath": "C:\\Users\\tuhin.samanta\\Documents\\UiPath\\TestGitInt\\.local",
+      "projectPath": "C:\\Users\\tuhin.samanta\\Desktop\\UiPath Data\\Office POC\\GitMergeTest\\.local",
       "packagesPath": "C:\\Users\\tuhin.samanta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuhin.samanta\\Documents\\UiPath\\TestGitInt\\.local"
+      "outputPath": "C:\\Users\\tuhin.samanta\\Desktop\\UiPath Data\\Office POC\\GitMergeTest\\.local"
     },
     "frameworks": {
       "net461": {
