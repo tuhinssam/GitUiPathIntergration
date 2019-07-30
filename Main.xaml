@@ -56,8 +56,8 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="681.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Start of Execution" />
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="681.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="Test msg3" />
-    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="681.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="Test msg5" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="681.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="Test msg1" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="681.6,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="Test msg6" />
     <p:CVScope ContinueOnError="{x:Null}" DelayBefore="300" DisplayName="CV Screen Scope 'UIContainerClass'" sap:VirtualizedContainerService.HintSize="681.6,1562.4" sap2010:WorkflowViewState.IdRef="CVScope_1" Server="https://cv.uipath.com/">
       <p:CVScope.Body>
         <ActivityAction x:TypeArguments="x:Object">
